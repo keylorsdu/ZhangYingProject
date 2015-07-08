@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZhangYingProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="light">亮度</string>
+    <string name="saturation">饱和度</string>
+    <string name="color">色彩度</string>
+</resources>
